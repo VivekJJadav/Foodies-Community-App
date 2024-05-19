@@ -15,6 +15,8 @@
    ```sh
    git clone https://github.com/VivekJJadav/Foodies-Comunity-App.git
 2. Install dependencies:
+   ```sh
    npm install
-3. Run the development server
+4. Run the development server:
+   ```sh
    npm run dev
